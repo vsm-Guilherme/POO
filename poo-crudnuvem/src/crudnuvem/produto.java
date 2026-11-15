@@ -14,9 +14,9 @@ public class produto {
     public static void main(String[] args) {
 
         // CONEXAO COM O RAILWAY
-        String url = "jdbc:mysql://ballast.proxy.rlwy.net:37618/railway";
+        String url = "Removido por Segurança";
         String usuariobanco = "root";
-        String bancosenha = "dFlgcMsHGmtrMpRzvqsIWlVHvNRvMzCE";
+        String bancosenha = "Removido por Segurança";
 
         Scanner sc = new Scanner(System.in);
 
