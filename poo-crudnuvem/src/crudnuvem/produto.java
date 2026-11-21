@@ -9,14 +9,18 @@ import java.sql.SQLException;
 import java.math.BigDecimal;
 import java.util.Scanner;
 
+// Credenciais
+// RA: 0023448 | Guilherme Venancio de Sousa Menezes
+
 public class produto {
 
     public static void main(String[] args) {
 
         // CONEXAO COM O RAILWAY
-        String url = "Removido po Segurança";
+        String url = "mysql://root:dFlgcMsHGmtrMpRzvqsIWlVHvNRvMzCE@ballast.proxy.rlwy.net:37618/railway";
         String usuariobanco = "root";
-        String bancosenha = "Removido por Segurança";
+        String bancosenha = "dFlgcMsHGmtrMpRzvqsIWlVHvNRvMzCE";
+        String port = "3306";
 
         Scanner sc = new Scanner(System.in);
 
