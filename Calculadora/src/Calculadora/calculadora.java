@@ -1,5 +1,7 @@
 package Calculadora;
 
+// Credenciais
+//RA: 0023448 | Guilherme Venâncio de Sousa Menezes
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.EventQueue;
