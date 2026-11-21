@@ -4,7 +4,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 // Credenciais
-//RA:0023448 | Guilherme Venãncio de Sousa Menezes
+// RA:0023448 | Guilherme Venãncio de Sousa Menezes
 
 public class consumircep {
 
